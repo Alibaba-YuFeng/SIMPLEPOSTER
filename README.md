@@ -5,19 +5,6 @@ Official implementation of the **CVPR 2026** paper:
 > **SIMPLEPOSTER: A Simple Baseline for Product Poster Generation**  
 > [[Paper](https://arxiv.org/pdf/2605.08784)]
 
----
-
-## Authors
-
-**Benlei Cui**<sup>1*</sup>, **Fangao Zeng**<sup>2*,✉</sup>, **Weitao Jiang**<sup>2*</sup>, **Yuwen Zhai**<sup>2</sup>, **Haiwen Hong**<sup>1†</sup>,  
-**Longtao Huang**<sup>1</sup>, **Hui Xue**<sup>1</sup>, **Wenxiang Shang**<sup>2</sup>, **Pipei Huang**<sup>2</sup>
-
-<sup>1</sup> Alibaba Group  
-<sup>2</sup> Taobao & Tmall Group of Alibaba  
-
-<sup>*</sup> Equal contribution &nbsp;&nbsp; <sup>†</sup> Project lead / corresponding role &nbsp;&nbsp; <sup>✉</sup> Corresponding author
-
----
 
 ## 🔥 News
 
